@@ -1,0 +1,32 @@
+{
+    "name": "Kota Factory PWA Theme",
+    "short_name": "KotaFactory",
+    "start_url": "/",
+    "theme_color": "#1F39FF",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "Kota Factory PWA Theme",
+    "icons": [
+        {
+            "src": "/public/icons/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/public/icons/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "/public/icons/favicon-16x16.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        },
+        {
+            "src": "/venia-static/icons/favicon-32x32.png",
+            "sizes": "32x32",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
